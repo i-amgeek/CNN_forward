@@ -1,4 +1,4 @@
-# CNN_forward
+# CNN_using_numpy
 Implementation of CNN
 
 input size -> Convolution 2D (stride 2, padding 1) -> Relu -> Fully connected net -> output size
